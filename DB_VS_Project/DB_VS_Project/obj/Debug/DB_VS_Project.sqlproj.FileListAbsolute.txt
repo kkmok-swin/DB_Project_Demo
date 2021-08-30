@@ -1,0 +1,6 @@
+C:\Users\karen\source\repos\DB_Project_Demo\DB_VS_Project\DB_VS_Project\bin\Debug\DB_VS_Project.dacpac
+C:\Users\karen\source\repos\DB_Project_Demo\DB_VS_Project\DB_VS_Project\obj\Debug\DB_VS_Project.sqlproj.AssemblyReference.cache
+C:\Users\karen\source\repos\DB_Project_Demo\DB_VS_Project\DB_VS_Project\obj\Debug\DB_VS_Project.dll
+C:\Users\karen\source\repos\DB_Project_Demo\DB_VS_Project\DB_VS_Project\obj\Debug\DB_VS_Project.pdb
+C:\Users\karen\source\repos\DB_Project_Demo\DB_VS_Project\DB_VS_Project\bin\Debug\DB_VS_Project.dll
+C:\Users\karen\source\repos\DB_Project_Demo\DB_VS_Project\DB_VS_Project\bin\Debug\DB_VS_Project.pdb
